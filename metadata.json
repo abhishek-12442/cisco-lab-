@@ -1,0 +1,6 @@
+{
+  "name": "Himalaya NetTech Institute",
+  "description": "IT & Networking Training Center in Kathmandu, Nepal offering practical CCNA, Linux, Cybersecurity, Hardware, CCTV, Python, and Web Development programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
